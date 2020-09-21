@@ -1,2 +1,3 @@
 # hexlet-js
-Educational repo on Hexlet
+Мой первый проект на Хекслете
+
